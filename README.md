@@ -8,6 +8,23 @@ NIM : 312410474
 
 Mata Kuliah : Pemrograman Web
 
+## Langkah-langkah Praktikum
+
+### 1. Langkah 1 - Membuat Dokumen HTML
+Saya membuat file `lab2_css_dasar.html` dengan struktur dasar HTML berisi header, nav, dan div intro.
+
+### 2. Langkah-2 - Menambahkan CSS Internal
+Menambahkan kode `<style>` di dalam `<head>` untuk mengatur body, header, dan h1.
+
+### 3. Langkah-3 - Menambahkan Inline CSS
+Menambahkan atribut `style` langsung pada elemen `<p>`, sehingga teks berubah warna dan posisinya rata tengah.
+
+### 4. Langkah 4 - Membuat CSS Eskternal 
+Membuat file `style_eksternal.css` dan menghubungkannya ke `lab2_css_eksternal.html` menggunakan tag `<link>`.
+
+### 5. Langkah-5 - Menambahkan CSS Selector
+Menambahkan ID Selector dan Class Selector pada file eksternal CSS. ID untuk styling khusus satu elemen, sedangkan class bisa dipakai ulang di beberapa elemen.
+
 ## Pertanyaan dan Tugas
 
 ### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS  dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
@@ -47,7 +64,3 @@ ID selector (`#id`) punya prioritas lebih tinggi daripada class (`.class`). Cont
 ```
 
 Hasilnya: teks jadi merah (karena ID lebih kuat dari class).
-
-## Langkah-langkah Praktikum
-
-### 1. Langkah 1 -
