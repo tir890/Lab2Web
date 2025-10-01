@@ -12,6 +12,7 @@ Mata Kuliah : Pemrograman Web
 
 ### 1. Langkah 1 - Membuat Dokumen HTML
 Saya membuat file `lab2_css_dasar.html` dengan struktur dasar HTML berisi header, nav, dan div intro.
+![Dokumen HTML](https://github.com/tir890/Lab2Web/blob/d954c6c04bf2632ab7ee6dccd82755bea84c56e9/1.png)
 
 ### 2. Langkah-2 - Menambahkan CSS Internal
 Menambahkan kode `<style>` di dalam `<head>` untuk mengatur body, header, dan h1.
