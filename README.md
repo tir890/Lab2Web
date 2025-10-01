@@ -35,5 +35,15 @@ Urutannya: Inline CSS > Internal CSS > Eksternal CSS (karena inline punya priori
 <p style="color: red;">Teks ini merah karena inline override internal & eksternal</p>
 ```
 
-
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut  terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?  Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-paragraf"> )` 
+ID selector (`#id`) punya prioritas lebih tinggi daripada class (`.class`). Contohnya,
+```html
+<p id="paragraf-1" class="text-paragraf">Contoh teks</p>
+```
+
+```css
+#paragraf-1 { color: red; }
+.text-paragraf { color: blue; }
+```
+
+Hasilnya: teks jadi merah (karena ID lebih kuat dari class).
