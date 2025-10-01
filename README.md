@@ -22,7 +22,11 @@ p {
 ```
 - Kesimpulan: dengan mengubah nilai properti, tampilan elemen bisa langsung berubah tanpa harus mengubah struktur HTML.
 
-### 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan #intro `h1 {...}`? berikan  penjelasannya! 
+### 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan #intro `h1 {...}`? berikan  penjelasannya!
+Jawab:
+- `h1 { ... }` → berlaku untuk semua elemen `<h1>` di halaman.
+- `#intro h1 { ... }` → hanya berlaku untuk `<h1>` yang ada di dalam elemen dengan id="intro".
+- Jadi `#intro h1` lebih spesifik daripada `h1`.
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada  elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan  penjelasan dan contohnya! 
 
