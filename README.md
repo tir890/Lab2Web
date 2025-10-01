@@ -1,1 +1,1 @@
-# Lab2Web
+# Lab 2 | CSS Dasar
