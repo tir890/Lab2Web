@@ -47,3 +47,7 @@ ID selector (`#id`) punya prioritas lebih tinggi daripada class (`.class`). Cont
 ```
 
 Hasilnya: teks jadi merah (karena ID lebih kuat dari class).
+
+## Langkah-langkah Praktikum
+
+### 1. Langkah 1 -
