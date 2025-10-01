@@ -16,15 +16,19 @@ Saya membuat file `lab2_css_dasar.html` dengan struktur dasar HTML berisi header
 
 ### 2. Langkah-2 - Menambahkan CSS Internal
 Menambahkan kode `<style>` di dalam `<head>` untuk mengatur body, header, dan h1.
+![CSS Internal](https://github.com/tir890/Lab2Web/blob/b81c4862cfed1c2c158dc41bdcd5af174738ef8d/2.png)
 
 ### 3. Langkah-3 - Menambahkan Inline CSS
 Menambahkan atribut `style` langsung pada elemen `<p>`, sehingga teks berubah warna dan posisinya rata tengah.
+![Inline CSS](https://github.com/tir890/Lab2Web/blob/b81c4862cfed1c2c158dc41bdcd5af174738ef8d/3.png)
 
 ### 4. Langkah 4 - Membuat CSS Eskternal 
 Membuat file `style_eksternal.css` dan menghubungkannya ke `lab2_css_eksternal.html` menggunakan tag `<link>`.
+![CSS Eksternal](https://github.com/tir890/Lab2Web/blob/b81c4862cfed1c2c158dc41bdcd5af174738ef8d/4.png)
 
 ### 5. Langkah-5 - Menambahkan CSS Selector
 Menambahkan ID Selector dan Class Selector pada file eksternal CSS. ID untuk styling khusus satu elemen, sedangkan class bisa dipakai ulang di beberapa elemen.
+![CSS Selector](https://github.com/tir890/Lab2Web/blob/b81c4862cfed1c2c158dc41bdcd5af174738ef8d/5.png) 
 
 ## Pertanyaan dan Tugas
 
